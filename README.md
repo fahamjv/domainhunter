@@ -11,7 +11,6 @@ apple.ir
 NOTE: It's only working with .ir domains for now. happy me with your pull requests 😆
 
 ## How to use ?
-![https://www.nic.ir/](https://user-images.githubusercontent.com/20015479/131530988-e27becf8-85bd-4652-b3aa-7f0ea0d440a8.png)
 ```
 usage: run.py [-h] -i  [-o]
 optional arguments:
@@ -24,4 +23,18 @@ optional arguments:
 - ```python3 run.py -i input.csv -o output.csv```
 - enjoy the result!
 
+
+![https://www.nic.ir/](https://user-images.githubusercontent.com/20015479/131530988-e27becf8-85bd-4652-b3aa-7f0ea0d440a8.png)\
+the result (out.csv):
+```domain,is_domain_available,datetime
+digikala.ir,,2021-08-31 19:50:29.793493
+radisa.ir,False,2021-08-31 19:50:29.972483
+plusgram.ir,False,2021-08-31 19:50:30.124198
+rond.ir,False,2021-08-31 19:50:30.292795
+khoonegi.ir,False,2021-08-31 19:50:30.446368
+setme.ir,False,2021-08-31 19:50:31.684090
+loxwork.ir,False,2021-08-31 19:50:31.857444
+itamozesh.ir,False,2021-08-31 19:50:32.033248
+...
+```
 
