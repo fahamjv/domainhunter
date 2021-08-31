@@ -3,7 +3,6 @@ ok so with this script you can plow a lot of .ir (.ir is the Internet country co
 it's really handy and easy to use, just make a csv file and write the domains into it for example:
 ```
 digikala.ir
-&nbsp;
 amazon.ir
 former.ir
 apple.ir
